@@ -18019,6 +18019,10 @@ body {
   background-color: #2FA64A !important;
 }
 
+.el-button {
+  border-color: #a5a5a5 !important;
+}
+
 .el-table th.el-table__cell {
   background-color: #2B2B2B;
 }
