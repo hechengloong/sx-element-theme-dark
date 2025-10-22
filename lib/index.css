@@ -52373,3 +52373,7 @@ body {
 .el-table--enable-row-hover .el-table__body tr:hover>td.el-table__cell {
   background-color: #181818 !important;
 }
+
+.reportManage .report-container .main-content .query-area .el-input-group__append {
+  background-color: #b2b2b2 !important;
+}
