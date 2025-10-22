@@ -245,7 +245,7 @@
     color: #eee;
     cursor: not-allowed; }
     .el-select-dropdown__item.is-disabled:hover {
-      background-color: #222933; }
+      background-color: #2B2B2B; }
   .el-select-dropdown__item.hover, .el-select-dropdown__item:hover {
     background-color: #313846; }
   .el-select-dropdown__item.selected {

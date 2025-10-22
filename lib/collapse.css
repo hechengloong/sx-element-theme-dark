@@ -467,7 +467,7 @@
   align-items: center;
   height: 48px;
   line-height: 48px;
-  background-color: #222933;
+  background-color: #2B2B2B;
   color: #ccc;
   cursor: pointer;
   border-bottom: 1px solid #121820;
@@ -493,7 +493,7 @@
 
 .el-collapse-item__wrap {
   will-change: height;
-  background-color: #222933;
+  background-color: #2B2B2B;
   overflow: hidden;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;

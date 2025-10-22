@@ -235,7 +235,7 @@
   .el-badge__content {
     background-color: #f56c6c;
     border-radius: 10px;
-    color: #222933;
+    color: #2B2B2B;
     display: inline-block;
     font-size: 12px;
     height: 18px;
@@ -243,7 +243,7 @@
     padding: 0 6px;
     text-align: center;
     white-space: nowrap;
-    border: 1px solid #222933; }
+    border: 1px solid #2B2B2B; }
     .el-badge__content.is-fixed {
       position: absolute;
       top: 0;

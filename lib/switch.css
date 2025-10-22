@@ -275,7 +275,7 @@
     position: relative;
     width: 40px;
     height: 20px;
-    border: 1px solid #121820;
+    border: 1px solid #A5A5A5;
     outline: none;
     border-radius: 10px;
     -webkit-box-sizing: border-box;
@@ -295,7 +295,7 @@
       transition: all .3s;
       width: 16px;
       height: 16px;
-      background-color: #222933; }
+      background-color: #2B2B2B; }
   .el-switch.is-checked .el-switch__core {
     border-color: #00adff;
     background-color: #00adff; }

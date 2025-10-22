@@ -509,7 +509,7 @@
     left: 50%;
     -webkit-transform: translate3d(-50%, -50%, 0);
     transform: translate3d(-50%, -50%, 0);
-    color: #222933;
+    color: #2B2B2B;
     text-align: center;
     font-size: 12px; }
   .el-color-picker__panel {
@@ -518,8 +518,8 @@
     padding: 6px;
     -webkit-box-sizing: content-box;
     box-sizing: content-box;
-    background-color: #222933;
-    border: 1px solid #121820;
+    background-color: #2B2B2B;
+    border: 1px solid #A5A5A5;
     border-radius: 4px;
     -webkit-box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1); }

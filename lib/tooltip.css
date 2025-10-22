@@ -300,23 +300,23 @@
       border-left-color: #ccc; }
   .el-tooltip__popper.is-dark {
     background: #ccc;
-    color: #222933; }
+    color: #2B2B2B; }
   .el-tooltip__popper.is-light {
-    background: #222933;
+    background: #2B2B2B;
     border: 1px solid #ccc; }
     .el-tooltip__popper.is-light[x-placement^="top"] .popper__arrow {
       border-top-color: #ccc; }
       .el-tooltip__popper.is-light[x-placement^="top"] .popper__arrow::after {
-        border-top-color: #222933; }
+        border-top-color: #2B2B2B; }
     .el-tooltip__popper.is-light[x-placement^="bottom"] .popper__arrow {
       border-bottom-color: #ccc; }
       .el-tooltip__popper.is-light[x-placement^="bottom"] .popper__arrow::after {
-        border-bottom-color: #222933; }
+        border-bottom-color: #2B2B2B; }
     .el-tooltip__popper.is-light[x-placement^="left"] .popper__arrow {
       border-left-color: #ccc; }
       .el-tooltip__popper.is-light[x-placement^="left"] .popper__arrow::after {
-        border-left-color: #222933; }
+        border-left-color: #2B2B2B; }
     .el-tooltip__popper.is-light[x-placement^="right"] .popper__arrow {
       border-right-color: #ccc; }
       .el-tooltip__popper.is-light[x-placement^="right"] .popper__arrow::after {
-        border-right-color: #222933; }
+        border-right-color: #2B2B2B; }

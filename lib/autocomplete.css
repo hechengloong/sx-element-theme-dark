@@ -473,9 +473,9 @@
     width: 100%;
     font-size: inherit;
     color: #eee;
-    background-color: #222933;
+    background-color: #2B2B2B;
     background-image: none;
-    border: 1px solid #121820;
+    border: 1px solid #A5A5A5;
     border-radius: 4px;
     -webkit-transition: border-color 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
     transition: border-color 0.2s cubic-bezier(0.645, 0.045, 0.355, 1); }
@@ -534,10 +534,10 @@
       color: #bbb; }
   .el-input__inner {
     -webkit-appearance: none;
-    background-color: #222933;
+    background-color: #2B2B2B;
     background-image: none;
     border-radius: 4px;
-    border: 1px solid #121820;
+    border: 1px solid #A5A5A5;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     color: #eee;
@@ -654,7 +654,7 @@
     vertical-align: middle;
     display: table-cell;
     position: relative;
-    border: 1px solid #121820;
+    border: 1px solid #A5A5A5;
     border-radius: 4px;
     padding: 0 20px;
     width: 1px;
@@ -1240,7 +1240,7 @@
   .el-popper[x-placement^="top"] .popper__arrow::after {
     bottom: 1px;
     margin-left: -6px;
-    border-top-color: #222933;
+    border-top-color: #2B2B2B;
     border-bottom-width: 0; }
 
 .el-popper[x-placement^="bottom"] {
@@ -1256,7 +1256,7 @@
     top: 1px;
     margin-left: -6px;
     border-top-width: 0;
-    border-bottom-color: #222933; }
+    border-bottom-color: #2B2B2B; }
 
 .el-popper[x-placement^="right"] {
   margin-left: 12px; }
@@ -1270,7 +1270,7 @@
   .el-popper[x-placement^="right"] .popper__arrow::after {
     bottom: -6px;
     left: 1px;
-    border-right-color: #222933;
+    border-right-color: #2B2B2B;
     border-left-width: 0; }
 
 .el-popper[x-placement^="left"] {
@@ -1287,7 +1287,7 @@
     bottom: -6px;
     margin-left: -6px;
     border-right-width: 0;
-    border-left-color: #222933; }
+    border-left-color: #2B2B2B; }
 
 .el-autocomplete {
   position: relative;
@@ -1298,7 +1298,7 @@
   -webkit-box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
   border-radius: 4px;
-  border: 1px solid #121820;
+  border: 1px solid #A5A5A5;
   overflow: hidden;
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
@@ -1308,7 +1308,7 @@
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     overflow: auto;
-    background-color: #222933; }
+    background-color: #2B2B2B; }
   .el-autocomplete-suggestion__list {
     margin: 0;
     padding: 0; }
@@ -1344,6 +1344,6 @@
       height: 100%;
       vertical-align: middle; }
     .el-autocomplete-suggestion.is-loading li:hover {
-      background-color: #222933; }
+      background-color: #2B2B2B; }
   .el-autocomplete-suggestion.is-loading .el-icon-loading {
     vertical-align: middle; }

@@ -348,8 +348,8 @@
     line-height: 1;
     white-space: nowrap;
     vertical-align: middle;
-    background: #222933;
-    border: 1px solid #121820;
+    background: #2B2B2B;
+    border: 1px solid #A5A5A5;
     font-weight: 500;
     border-left: 0;
     color: #eee;
@@ -385,7 +385,7 @@
     position: absolute;
     z-index: -1; }
     .el-radio-button__orig-radio:checked + .el-radio-button__inner {
-      color: #222933;
+      color: #2B2B2B;
       background-color: #00adff;
       border-color: #00adff;
       -webkit-box-shadow: -1px 0 0 0 #00adff;
@@ -394,7 +394,7 @@
       color: #eee;
       cursor: not-allowed;
       background-image: none;
-      background-color: #222933;
+      background-color: #2B2B2B;
       border-color: #121820;
       -webkit-box-shadow: none;
       box-shadow: none; }

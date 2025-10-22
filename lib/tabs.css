@@ -350,7 +350,7 @@
       display: inline-block; }
     .el-tabs__item .el-icon-close:hover {
       background-color: #eee;
-      color: #222933; }
+      color: #2B2B2B; }
   .el-tabs__item.is-active {
     color: #00adff; }
   .el-tabs__item:hover {
@@ -371,7 +371,7 @@
   content: none; }
 
 .el-tabs--card > .el-tabs__header .el-tabs__nav {
-  border: 1px solid #121820;
+  border: 1px solid #A5A5A5;
   border-bottom: none;
   border-radius: 4px 4px 0 0;
   -webkit-box-sizing: border-box;
@@ -406,7 +406,7 @@
     .el-tabs--card > .el-tabs__header .el-tabs__item.is-closable:hover .el-icon-close {
       width: 14px; }
   .el-tabs--card > .el-tabs__header .el-tabs__item.is-active {
-    border-bottom-color: #222933; }
+    border-bottom-color: #2B2B2B; }
     .el-tabs--card > .el-tabs__header .el-tabs__item.is-active.is-closable {
       padding-left: 20px;
       padding-right: 20px; }
@@ -414,8 +414,8 @@
         width: 14px; }
 
 .el-tabs--border-card {
-  background: #222933;
-  border: 1px solid #121820;
+  background: #2B2B2B;
+  border: 1px solid #A5A5A5;
   -webkit-box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12), 0 0 6px 0 rgba(0, 0, 0, 0.04);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12), 0 0 6px 0 rgba(0, 0, 0, 0.04); }
   .el-tabs--border-card > .el-tabs__content {
@@ -434,7 +434,7 @@
     color: #bbb; }
     .el-tabs--border-card > .el-tabs__header .el-tabs__item.is-active {
       color: #00adff;
-      background-color: #222933;
+      background-color: #2B2B2B;
       border-right-color: #121820;
       border-left-color: #121820; }
     .el-tabs--border-card > .el-tabs__header .el-tabs__item:not(.is-disabled):hover {
@@ -586,7 +586,7 @@
   border-top: none; }
 
 .el-tabs--left.el-tabs--card .el-tabs__item.is-left.is-active {
-  border: 1px solid #121820;
+  border: 1px solid #A5A5A5;
   border-right-color: #fff;
   border-left: none;
   border-bottom: none; }
@@ -640,7 +640,7 @@
   border-top: none; }
 
 .el-tabs--right.el-tabs--card .el-tabs__item.is-right.is-active {
-  border: 1px solid #121820;
+  border: 1px solid #A5A5A5;
   border-left-color: #fff;
   border-right: none;
   border-bottom: none; }
