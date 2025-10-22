@@ -52353,3 +52353,7 @@ body {
   -ms-flex-negative: 0;
   flex-shrink: 0;
 }
+
+.el-table--enable-row-hover .el-table__body tr:hover>td.el-table__cell {
+  background-color: #181818 !important;
+}
