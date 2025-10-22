@@ -18019,6 +18019,18 @@ body {
   background-color: #2FA64A !important;
 }
 
+.el-table th.el-table__cell {
+  background-color: #2B2B2B;
+}
+
+.select-input {
+  background-color: #2B2B2B !important;
+}
+
+.dropdown-options {
+  background-color: #2B2B2B !important;
+}
+
 .el-table {
   position: relative;
   overflow: hidden;
