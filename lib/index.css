@@ -52377,3 +52377,53 @@ body {
 .reportManage .report-container .main-content .query-area .el-input-group__append {
   background-color: #b2b2b2 !important;
 }
+
+.tabs-header {
+  background-color: #181818 !important;
+}
+
+.select-left-setting-item {
+  background-color: #36473B !important;
+}
+
+.table-header-cell {
+  background-color: #181818 !important;
+  color: #FFF !important;
+}
+
+.card-text .card-name {
+  color: #FFF !important;
+}
+
+.vav-card {
+  background-color: #2b2b2b !important;
+}
+
+.btn-minor {
+  color: #FFF !important;
+}
+
+.btn-minor:hover {
+  background-color: #2b2b2b !important;
+}
+
+.tabs-header {
+  border-bottom: none !important;
+}
+
+.el-dialog__header {
+  background-color: #2b2b2b !important;
+
+}
+
+.tree-dropdown {
+  background-color: #2b2b2b !important;
+}
+
+.el-button--text {
+  padding: 9px 15px !important;
+}
+
+.el-select .el-tag {
+  background-color: #2b2b2b !important;
+}
